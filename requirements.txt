@@ -2,3 +2,4 @@ tensorflow
 numpy
 python_splitter
 matplotlib
+cv2
