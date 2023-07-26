@@ -1,0 +1,4 @@
+tensorflow
+numpy
+python_splitter
+matplotlib
